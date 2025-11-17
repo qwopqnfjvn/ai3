@@ -76,9 +76,13 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
 
     labels[0]:{"texts":["물은 인간에게 필수적이야 없으면 죽어"],
-              "videos":["https://www.youtube.com/shorts/jk4ZEgTFuKA"]}, 
-    labels[1]:{"texts":["수학은 이과 과목에서 아주 중요해"],"videos":["https://www.youtube.com/shorts/EARCHs_84V0"]},
-    labels[2]:{"texts":["체육 시간은 인생을 바꿀 중요한 시간이야"],"videos":["https://www.youtube.com/shorts/Ad9XTcV8qF8"]},
+              "videos":["https://www.youtube.com/shorts/jk4ZEgTFuKA"], 
+               "images":["https://www.google.com/imgres?q=%EB%AC%BC&imgurl=https%3A%2F%2Fwww.civicnews.com%2Fnews%2Fphoto%2F202203%2F33542_53996_544.jpg&imgrefurl=https%3A%2F%2Fwww.civicnews.com%2Fnews%2FarticleView.html%3Fidxno%3D33542&docid=KVeygQ2889tksM&tbnid=khTTUfOsDl69tM&vet=12ahUKEwjf4tmbnPiQAxWZ1DQHHWBgJyAQM3oECBIQAA..i&w=600&h=399&hcb=2&ved=2ahUKEwjf4tmbnPiQAxWZ1DQHHWBgJyAQM3oECBIQAA"]},
+    
+    labels[1]:{"texts":["수학은 이과 과목에서 아주 중요해"],"videos":["https://www.youtube.com/shorts/EARCHs_84V0"],
+               "images":["https://mblogthumb-phinf.pstatic.net/MjAyMzAyMThfMTI5/MDAxNjc2NzI2NzAzNzYx.ODtRX6qcGofL4ZTevXTNjc8uk7bFajDUHUK_Gh3xA0sg.wGNeoZH0FCDKdjWmFNwW2qC6QTvhXkm5QJAPu6HMEDEg.JPEG.yunvestor1/%ED%98%84%EC%9A%B0%EC%A7%84_%EA%B0%95%EC%9D%982.jpg?type=w800"]},
+    labels[2]:{"texts":["체육 시간은 인생을 바꿀 중요한 시간이야"],"videos":["https://www.youtube.com/shorts/Ad9XTcV8qF8"],
+               "images":["https://asset-prod.france.fr/master1305_Getty_Images_f6aa414331.jpg"]},
 }
 
 # ======================
